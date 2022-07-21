@@ -1,25 +1,25 @@
 # Skills
-- Sofwate Development
-  - SOLID Principles
-  - Design Patterns: MVW, Factory, Adapter, ...
-  - Prometheus & Graphana
+- Docker
+- Kubernetes
+- SQL & DB
+- Machine Learning & Deep Learning
+  - PyTorch, TensorFlow, Scikit-learn
+  - Computer Vision, Language & Speech Processing, GANs, Deep Reinforcement Learning
+- Data Science
+  - Numpy, Pandas, SciPy, Matplotlib, Seaborn
 - Python
   - API creation: Flask, FastAPI
   - Poetry
   - ORM: SQLAlchemy
   - Unit Testing
+- Sofwate Development
+  - SOLID Principles
+  - Design Patterns: MVW, Factory, Adapter, ...
+  - Prometheus & Graphana
 - Java
   - Spring Framework
   - JPA
   - Testing: JUnit, Mockito
-- Data Science
-  - Numpy, Pandas, SciPy, Matplotlib, Seaborn
-- Machine Learning & Deep Learning
-  - PyTorch, TensorFlow, Scikit-learn
-  - Computer Vision, Language & Speech Processing, GANs, Deep Reinforcement Learning
-- Docker
-- Kubernetes
-- SQL & DB
 
 <!--
 **Pueyo99/Pueyo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
