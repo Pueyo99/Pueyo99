@@ -1,4 +1,16 @@
-### Hi there 👋
+# Skills
+- Python
+  - API creation: Flask, FastAPI
+  - Poetry
+  - ORM: SQLAlchemy
+- Data Science
+  - Numpy, Pandas, SciPy, Matplotlib, Seaborn
+- Machine Learning & Deep Learning
+  - PyTorch, TensorFlow, Scikit-learn
+  - Computer Vision, Language & Speech Processing, GANs, Deep Reinforcement Learning
+- Docker
+- Kubernetes
+- SQL & DB
 
 <!--
 **Pueyo99/Pueyo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
