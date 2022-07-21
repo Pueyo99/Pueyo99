@@ -1,8 +1,17 @@
 # Skills
+- Sofwate Development
+  - SOLID Principles
+  - Design Patterns: MVW, Factory, Adapter, ...
+  - Prometheus & Graphana
 - Python
   - API creation: Flask, FastAPI
   - Poetry
   - ORM: SQLAlchemy
+  - Unit Testing
+- Java
+  - Spring Framework
+  - JPA
+  - Testing: JUnit, Mockito
 - Data Science
   - Numpy, Pandas, SciPy, Matplotlib, Seaborn
 - Machine Learning & Deep Learning
